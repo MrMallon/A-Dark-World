@@ -1,0 +1,19 @@
+Raw Meat;0;fresh from an animal needs to be cured;0;2;1;;;Consumable!
+Wood;1;Wood from the forest;0;0;2;;;normal!
+Torch;2;Requires: 1 wood, 1 cloth;0;0;1;1,Wood;1,Cloth;normal!
+Hut;3;Requires: 200 wood ;0;0;300;200,Wood;;normal!
+Trap;4;Requires: 4 wood;0;0;2;4,Wood;;Weapon!
+Cured Meat;5;Requires: 2 meat, lit fire;0;5;1;2,Raw Meat;;Consumable!
+Fur;6;Fur from an animal. It's good for trading;0;0;2;;;normal!
+Cloth;7;Requires: 2 fur;0;0;1;;;normal!
+Steel;8;Strong and shiny;0;0;4;;;normal!
+Steel Sword;9;Requires: 3 Steel, 2 Coal ;0;15;10;;;Weapon!
+Steel Armour;10;Requires: 20 Steel, 10 Coal;0;20;15;;;Weapon!
+Iron;11;Stronger than wood but heavey;0;0;4;;;normal!
+Iron Sword;12;Requires: 3 Iron, 2 Coal;0;10;11;;;Weapon!
+Iron Armour;13;Requires: 20 Iron, 8 Coal;0;15;10;;;Weapon!
+Wood Armour;14;Requires: 20 wood;0;10;5;;;Weapon!
+Coal;15;Great for heating metal;0;0;2;;;normal!
+Medicine;16;Heal yourself in battle;0;20;1;;;Consumable!
+Water Canister;17;Carry water on your adventurers in this dark world. Upgrade it so you can venture future on the map;0;5;0;50,Fur;5,Wood;Consumable!
+Wooden Sword;18;weak but pointy;0;5;8;4,Wood;1,Fur;Weapon!
